@@ -1,0 +1,7 @@
+== Criar Tarefa
+
+Cria uma nova Tarefa
+
+=== Requisição
+
+include::{snippets}/create-task/curl-request.adoc[]
